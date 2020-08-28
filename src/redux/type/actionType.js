@@ -1,0 +1,3 @@
+export const CONTACT_ACTION_TYPE = {
+  SET_LOADING: 'SET_LOADING',
+};
